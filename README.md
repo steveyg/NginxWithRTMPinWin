@@ -34,6 +34,3 @@ Why make it:
     than linux server but enough for personal application.
 
 
-Site:
-
-    www.github.com/langsim/liveserver
